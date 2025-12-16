@@ -1,6 +1,6 @@
-str1 = "this is a string."
-str2 = 'apple'
-str3 = """ this a string"""
+str1 = "this is a string mango"
+str2 = 'banana'
+str3 = """ this a string apple"""
 ch2 =str1[-4:-1]
 print(ch2)
 ch3=str1.endswith("ing.");
